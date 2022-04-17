@@ -1,0 +1,56 @@
+sentence,intent
+does the vaccine work,vaccine
+should I wash my cloths everyday,transmition
+how often should i clean my house,transmition
+can i drink alcohol,food
+does vaccine have any side effects,vaccine
+does washing hands helping in reducing transmission,transmition
+does covid spread in hot weather,climate
+should I isolate myself if I observe symptoms,transmition
+which fruits are helpful in improving immunity,food
+do vitamin and zinc supplements help,food
+will vaccine cause weight gain,vaccine
+can a pregnant woman take vaccine,vaccine
+are vaccines safe for people with diabetes,vaccine
+are vaccines safe for people with coronary ailments,vaccine
+can i smoke after taking vaccines,vaccine
+will the chances of contracting covid increase if i commute by public transport,transmition
+can winter make covid19 worse,climate
+does having cold mean i have corona,symptons
+how much temperature means i have corona,symptons
+can eating in restaurants cause covid19,transmition
+can drinking cold water cause corona,food
+what should i eat to prevent covid19,food
+does excessive weight loss mean i have covid19,symptons
+i got wet in rain. can i have covid19,climate
+"my child has fever for 2 days, does he have covid19",symptons
+can herbal tea prevent the disease,food
+"if i increase my thermostat, can i avoid getting sick",climate
+can playing in the snow cause covid 19,climate
+i sneeze too much. do i have covid?,symptons
+how does virus spread?,transmition
+what is community spread?,transmition
+what are covid 19 community levels?,transmition
+how can i protect myself?,vaccine
+what are the recommendation for person that is having covid 19?,vaccine
+what should I do if i get covid 19?,symptons
+what are the symptoms and complication that covid 19 can cause?,symptons
+when should i seek emergency care if i have covid 19?,symptons
+can someone test neagtive and later test positive for viral test for covid,symptons
+how and when should workers in food retail and processing wear gloves during a pandemic?,food
+what steps do I need to take to clean the facility/equipment to prevent the spread of COVID-19?,food
+"what measures are fda and cdc, state partners, etc.) taking to ensure that we remain able to address foodborne illness outbreaks during the COVID-19 pandemic?",food
+Does climate change affect the transmission of coronavirus?,climate
+Does air pollution increase the risk of getting coronavirus? Does it make symptoms worse?,climate
+How likely are we to see infectious disease spread as a result of climate change?,climate
+What actions can we take to prevent future outbreaks?,climate
+Does Vitamin D help prevent COVID-19 ?,food
+What are the benefits of booster shot ?,vaccine
+Can COVID-19 spread through intercourse?,transmition
+Can RAT and RT-PCR have contrarory results ?,symptons
+I am unable to smell anything. Do I have COVID ?,symptons
+I am having chest pain. Is it an indication of coronavirus ?,symptons
+Do regular coffee drinkers have less chance of COVID ?,food
+I am a chainsmoker and facing excessive coughing. Have I got COVID ?,symptons
+Does pollution affect transmissability rate of COVID?,climate
+Do sanitizers really decrease the spread ?,transmition
